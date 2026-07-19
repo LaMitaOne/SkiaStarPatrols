@@ -43,6 +43,8 @@ A high-performance, thread-safe 2D side-scrolling space shooter built entirely w
     Ensure you have the Skia4Delphi library installed.
     Run and play!
 
+Zipped exe included   
+
 ---- Latest Changes
 
 v 0.1: Initial Release

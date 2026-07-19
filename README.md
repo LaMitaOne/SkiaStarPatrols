@@ -58,4 +58,7 @@ License
 
 MIT License - Do whatever you want with it. Credits appreciated but not required.
 
+Using royalty free audios from
+https://www.pavsmusic.com/free-sound-pack-kits/
+
 Happy hunting! 🚀👾

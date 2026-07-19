@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.07.19 07:58:25.341,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.19 07:59:37.046,C:\Users\Lenovo\Downloads\Skia-StarPatrol\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.07.19 07:59:37.046,C:\Users\Lenovo\Downloads\Skia-StarPatrol\Unit1.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.fmx</Transaction>
+    <Transaction>2026.07.19 07:59:44.822,C:\Users\Lenovo\Downloads\Skia-StarPatrol\StarPatrol.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.07.19 07:59:50.713,=C:\Users\Lenovo\Downloads\Skia-StarPatrol\Unit2.pas</Transaction>
+    <Transaction>2026.07.19 08:01:17.206,C:\Users\Lenovo\Downloads\Skia-StarPatrol\SkiaStarPatrol.pas=C:\Users\Lenovo\Downloads\Skia-StarPatrol\Unit2.pas</Transaction>
+    <Transaction>2026.07.19 08:27:27.837,C:\Users\Lenovo\Downloads\Skia-StarPatrol\SkiaStarPatrols.pas=C:\Users\Lenovo\Downloads\Skia-StarPatrol\SkiaStarPatrol.pas</Transaction>
+    <Transaction>2026.07.19 08:27:36.218,C:\Users\Lenovo\Downloads\Skia-StarPatrol\StarPatrols.dproj=C:\Users\Lenovo\Downloads\Skia-StarPatrol\StarPatrol.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

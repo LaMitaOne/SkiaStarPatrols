@@ -63,4 +63,11 @@ MIT License - Do whatever you want with it. Credits appreciated but not required
 Using royalty free audios from
 https://www.pavsmusic.com/free-sound-pack-kits/
 
-Happy hunting! 🚀👾
+Happy hunting! 🚀👾     
+
+more game prototypes:    
+     
+https://github.com/LaMitaOne/Skia_PlatformerGame    
+https://github.com/LaMitaOne/SkiaLemmings        
+https://github.com/LaMitaOne/Skiatris      
+https://github.com/LaMitaOne/Skia-A-Cats-Life          

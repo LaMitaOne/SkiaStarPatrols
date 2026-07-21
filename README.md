@@ -8,7 +8,9 @@ A high-performance, thread-safe 2D side-scrolling space shooter built entirely w
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/SkiaStarPatrols)
           
 <img width="638" height="506" alt="Unbenannt" src="https://github.com/user-attachments/assets/80df8016-b5be-40aa-8b12-8f5b126c2114" />
-
+    
+Sample Video: [https://www.youtube.com/watch?v=mePkXrbPfJg](https://youtu.be/I3TylDCWSoo)    
+    
 
 🎮 Gameplay Features
 
